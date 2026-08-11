@@ -46,13 +46,13 @@
 
 <div align="center">
 
-<!-- Minimal dashboard: only useful cards, with a transparent monochrome theme. -->
-<img width="96%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KJH-09&theme=transparent" alt="KJH-09's contribution overview" />
+<!-- Pure monochrome cards: white text, icons, axes, and charts on a near-black background. -->
+<img width="96%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KJH-09&theme=transparent&title_color=FFFFFF&text_color=FFFFFF&bg_color=0B0B0B&border_color=333333&icon_color=FFFFFF&chart_color=FFFFFF" alt="KJH-09's contribution overview" />
 
 <br />
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KJH-09&theme=transparent" alt="KJH-09's GitHub statistics" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KJH-09&theme=transparent&utcOffset=9" alt="KJH-09's productive time" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KJH-09&theme=transparent&title_color=FFFFFF&text_color=FFFFFF&bg_color=0B0B0B&border_color=333333&icon_color=FFFFFF&chart_color=FFFFFF" alt="KJH-09's GitHub statistics" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KJH-09&theme=transparent&title_color=FFFFFF&text_color=FFFFFF&bg_color=0B0B0B&border_color=333333&icon_color=FFFFFF&chart_color=FFFFFF&utcOffset=9" alt="KJH-09's productive time" />
 
 </div>
 
