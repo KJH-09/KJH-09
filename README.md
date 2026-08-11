@@ -46,18 +46,18 @@
 
 <div align="center">
 
-<!-- Replaced unstable GitHub Stats and activity-graph widgets with profile summary cards. -->
-<img width="96%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KJH-09&theme=tokyonight" alt="KJH-09's contribution summary" />
+<!-- Monochrome dashboard: black background with white/gray details. -->
+<img width="96%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KJH-09&theme=github_dark" alt="KJH-09's contribution summary" />
 
 <br />
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KJH-09&theme=tokyonight" alt="Repositories by language" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KJH-09&theme=tokyonight" alt="Most used commit languages" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KJH-09&theme=github_dark" alt="Repositories by language" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KJH-09&theme=github_dark" alt="Most used commit languages" />
 
 <br />
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KJH-09&theme=tokyonight" alt="GitHub profile statistics" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KJH-09&theme=tokyonight&utcOffset=9" alt="Productive time chart in Korea Standard Time" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KJH-09&theme=github_dark" alt="GitHub profile statistics" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KJH-09&theme=github_dark&utcOffset=9" alt="Productive time chart in Korea Standard Time" />
 
 </div>
 
