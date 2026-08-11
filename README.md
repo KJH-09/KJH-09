@@ -42,16 +42,33 @@
 
 `Information Security` · `Penetration Testing` · `Reverse Engineering` · `Exploit Development` · `Pwnable` · `System Architecture`
 
-## 📊 GitHub Activity
+## 📈 Contribution Intelligence
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=KJH-09&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="KJH-09's GitHub statistics" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KJH-09&layout=compact&theme=tokyonight&hide_border=true" alt="KJH-09's most used languages" />
+<!-- Replaced unstable GitHub Stats and activity-graph widgets with profile summary cards. -->
+<img width="96%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KJH-09&theme=tokyonight" alt="KJH-09's contribution summary" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=KJH-09&theme=tokyo-night&hide_border=true" alt="KJH-09's contribution graph" />
+<br />
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KJH-09&theme=tokyonight" alt="Repositories by language" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KJH-09&theme=tokyonight" alt="Most used commit languages" />
+
+<br />
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KJH-09&theme=tokyonight" alt="GitHub profile statistics" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KJH-09&theme=tokyonight&utcOffset=9" alt="Productive time chart in Korea Standard Time" />
 
 </div>
+
+## 🎯 Current Mission
+
+```text
+[+] Deepening reverse-engineering skills with C and assembly
+[+] Practicing binary exploitation and vulnerability research
+[+] Building security automation tools with Python
+[+] Preparing for Capture The Flag competitions
+```
 
 ## 🚩 Goals & Achievements
 
